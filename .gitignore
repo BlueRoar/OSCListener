@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Icons
+icon.icns
+
+# Xcode
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Build artifacts
+*.app/Contents/_CodeSignature/
+*.app/Contents/MacOS/
+*.app/Contents/Frameworks/
+*.app/Contents/Resources/lib/
+*.app/Contents/Resources/__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
